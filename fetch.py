@@ -1,7 +1,7 @@
 
 from os import system
 import subprocess
-vlocal = "v1.4.0-msft-1"
+vlocal = "v1.4.0-msft-2"
 vremote = "v1.4.2-rc.1"
 
 if len(vlocal.split('-')) > 2 and vlocal.split('-')[-2] == 'msft':
